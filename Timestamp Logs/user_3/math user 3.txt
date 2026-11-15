@@ -1,0 +1,86 @@
+Math Questions log
+Generated: 2026-11-13T22:23:38Z
+Entries: 81
+A line is written at each step: baseline rest, rest after the test, and each test question and answer.
+
+[17:18:18.742] SESSION START — 2026-11-13 17:18:18
+[17:18:18.742] INSTRUCTIONS SHOWN
+[17:18:28.210] BASELINE START — 60s rest | scene: moonlit lake | breathing 12/min (in 2s, out 3s)
+[17:18:28.211] REST START — before test | 60s
+[17:19:28.411] REST END — before test
+[17:19:35.154] TEST START — 3 minute math test
+[17:19:38.269] NEW QUESTION [1] — 6 × 8 = ? | Level: Level 1 — Single Digit | Options: 45, 48, 50, 46
+[17:19:40.243] ANSWER SELECTED — '48' ✓ correct | Q: 6 × 8 = ? | reaction: 1974ms | score: 1 | streak: 1
+[17:19:41.821] NEW QUESTION [2] — 4 × 9 = ? | Level: Level 1 — Single Digit | Options: 39, 35, 37, 36
+[17:19:43.843] ANSWER SELECTED — '36' ✓ correct | Q: 4 × 9 = ? | reaction: 2022ms | score: 2 | streak: 2
+[17:19:45.393] NEW QUESTION [3] — 6 - 2 = ? | Level: Level 1 — Single Digit | Options: 3, 6, 4, 2
+[17:19:47.276] ANSWER SELECTED — '4' ✓ correct | Q: 6 - 2 = ? | reaction: 1883ms | score: 3 | streak: 3
+[17:19:48.837] NEW QUESTION [4] — 2 + 5 = ? | Level: Level 1 — Single Digit | Options: 7, 9, 4, 10
+[17:19:50.642] ANSWER SELECTED — '7' ✓ correct | Q: 2 + 5 = ? | reaction: 1805ms | score: 4 | streak: 4
+[17:19:52.165] NEW QUESTION [5] — 9 + 8 = ? | Level: Level 1 — Single Digit | Options: 18, 16, 17, 14
+[17:19:53.776] ANSWER SELECTED — '17' ✓ correct | Q: 9 + 8 = ? | reaction: 1611ms | score: 5 | streak: 5
+[17:19:55.298] LEVEL CHANGE — Level 1 — Single Digit → Level 2 — Double Digit
+[17:19:55.298] NEW QUESTION [6] — 36 + 37 = ? | Level: Level 2 — Double Digit | Options: 82, 73, 72, 69
+[17:19:58.809] ANSWER SELECTED — '73' ✓ correct | Q: 36 + 37 = ? | reaction: 3510ms | score: 7 | streak: 6
+[17:20:00.365] NEW QUESTION [7] — 48 - 17 = ? | Level: Level 2 — Double Digit | Options: 25, 24, 29, 31
+[17:20:04.054] ANSWER SELECTED — '25' ✗ wrong | correct: '31' | Q: 48 - 17 = ? | reaction: 3689ms
+[17:20:05.673] NEW QUESTION [8] — 91 - 30 = ? | Level: Level 2 — Double Digit | Options: 65, 61, 52, 53
+[17:20:17.476] ANSWER SELECTED — '61' ✓ correct | Q: 91 - 30 = ? | reaction: 11803ms | score: 9 | streak: 1
+[17:20:19.047] NEW QUESTION [9] — 29 + 58 = ? | Level: Level 2 — Double Digit | Options: 84, 83, 87, 77
+[17:20:24.142] ANSWER SELECTED — '87' ✓ correct | Q: 29 + 58 = ? | reaction: 5095ms | score: 11 | streak: 2
+[17:20:25.687] NEW QUESTION [10] — 81 - 26 = ? | Level: Level 2 — Double Digit | Options: 55, 54, 57, 45
+[17:20:29.676] ANSWER SELECTED — '55' ✓ correct | Q: 81 - 26 = ? | reaction: 3989ms | score: 13 | streak: 3
+[17:20:31.200] NEW QUESTION [11] — 15 + 78 = ? | Level: Level 2 — Double Digit | Options: 85, 94, 101, 93
+[17:20:35.520] ANSWER SELECTED — '93' ✓ correct | Q: 15 + 78 = ? | reaction: 4320ms | score: 15 | streak: 4
+[17:20:37.141] LEVEL CHANGE — Level 2 — Double Digit → Level 3 — Equations
+[17:20:37.142] NEW QUESTION [12] — 3x + 8 = 32,  find x | Level: Level 3 — Equations | Options: 10, 9, 11, 8
+[17:20:45.153] ANSWER SELECTED — '8' ✓ correct | Q: 3x + 8 = 32,  find x | reaction: 8011ms | score: 18 | streak: 5
+[17:20:46.771] NEW QUESTION [13] — 4x + 6 = 26,  find x | Level: Level 3 — Equations | Options: 5, 4, 3, 6
+[17:20:50.375] ANSWER SELECTED — '5' ✓ correct | Q: 4x + 6 = 26,  find x | reaction: 3604ms | score: 21 | streak: 6
+[17:20:51.989] NEW QUESTION [14] — 2x + 3 = 11,  find x | Level: Level 3 — Equations | Options: 3, 4, 5, 6
+[17:20:55.407] ANSWER SELECTED — '4' ✓ correct | Q: 2x + 3 = 11,  find x | reaction: 3418ms | score: 24 | streak: 7
+[17:20:57.003] NEW QUESTION [15] — 4x + 10 = 22,  find x | Level: Level 3 — Equations | Options: 0, 2, 3, 5
+[17:21:00.541] ANSWER SELECTED — '3' ✓ correct | Q: 4x + 10 = 22,  find x | reaction: 3537ms | score: 27 | streak: 8
+[17:21:02.153] NEW QUESTION [16] — 3x + 7 = 13,  find x | Level: Level 3 — Equations | Options: 1, 5, 2, 0
+[17:21:05.309] ANSWER SELECTED — '2' ✓ correct | Q: 3x + 7 = 13,  find x | reaction: 3156ms | score: 30 | streak: 9
+[17:21:06.919] NEW QUESTION [17] — 4x + 8 = 28,  find x | Level: Level 3 — Equations | Options: 7, 2, 6, 5
+[17:21:10.541] ANSWER SELECTED — '5' ✓ correct | Q: 4x + 8 = 28,  find x | reaction: 3622ms | score: 33 | streak: 10
+[17:21:12.151] NEW QUESTION [18] — 3x + 2 = 23,  find x | Level: Level 3 — Equations | Options: 10, 5, 7, 8
+[17:21:15.052] ANSWER SELECTED — '7' ✓ correct | Q: 3x + 2 = 23,  find x | reaction: 2900ms | score: 36 | streak: 11
+[17:21:16.588] NEW QUESTION [19] — 2x + 5 = 15,  find x | Level: Level 3 — Equations | Options: 4, 5, 2, 3
+[17:21:20.574] ANSWER SELECTED — '5' ✓ correct | Q: 2x + 5 = 15,  find x | reaction: 3986ms | score: 39 | streak: 12
+[17:21:22.188] NEW QUESTION [20] — 4x + 4 = 16,  find x | Level: Level 3 — Equations | Options: 6, 5, 0, 3
+[17:21:25.108] ANSWER SELECTED — '3' ✓ correct | Q: 4x + 4 = 16,  find x | reaction: 2920ms | score: 42 | streak: 13
+[17:21:26.663] NEW QUESTION [21] — 2x + 8 = 16,  find x | Level: Level 3 — Equations | Options: 2, 7, 4, 6
+[17:21:29.707] ANSWER SELECTED — '4' ✓ correct | Q: 2x + 8 = 16,  find x | reaction: 3045ms | score: 45 | streak: 14
+[17:21:31.328] NEW QUESTION [22] — 3x + 9 = 15,  find x | Level: Level 3 — Equations | Options: 4, 1, 0, 2
+[17:21:34.840] ANSWER SELECTED — '2' ✓ correct | Q: 3x + 9 = 15,  find x | reaction: 3512ms | score: 48 | streak: 15
+[17:21:36.411] NEW QUESTION [23] — 5x + 3 = 28,  find x | Level: Level 3 — Equations | Options: 8, 5, 7, 6
+[17:21:40.439] ANSWER SELECTED — '5' ✓ correct | Q: 5x + 3 = 28,  find x | reaction: 4028ms | score: 51 | streak: 16
+[17:21:42.028] NEW QUESTION [24] — 3x + 5 = 32,  find x | Level: Level 3 — Equations | Options: 10, 9, 8, 7
+[17:21:47.440] ANSWER SELECTED — '9' ✓ correct | Q: 3x + 5 = 32,  find x | reaction: 5411ms | score: 54 | streak: 17
+[17:21:48.970] NEW QUESTION [25] — 5x + 5 = 30,  find x | Level: Level 3 — Equations | Options: 6, 8, 5, 7
+[17:21:51.074] ANSWER SELECTED — '5' ✓ correct | Q: 5x + 5 = 30,  find x | reaction: 2104ms | score: 57 | streak: 18
+[17:21:52.624] NEW QUESTION [26] — 4x + 4 = 20,  find x | Level: Level 3 — Equations | Options: 1, 6, 3, 4
+[17:21:55.676] ANSWER SELECTED — '4' ✓ correct | Q: 4x + 4 = 20,  find x | reaction: 3052ms | score: 60 | streak: 19
+[17:21:57.200] NEW QUESTION [27] — 2x + 2 = 18,  find x | Level: Level 3 — Equations | Options: 8, 9, 6, 10
+[17:22:00.039] ANSWER SELECTED — '8' ✓ correct | Q: 2x + 2 = 18,  find x | reaction: 2839ms | score: 63 | streak: 20
+[17:22:01.635] NEW QUESTION [28] — 3x + 6 = 30,  find x | Level: Level 3 — Equations | Options: 7, 5, 11, 8
+[17:22:04.406] ANSWER SELECTED — '8' ✓ correct | Q: 3x + 6 = 30,  find x | reaction: 2771ms | score: 66 | streak: 21
+[17:22:05.935] NEW QUESTION [29] — 3x + 3 = 30,  find x | Level: Level 3 — Equations | Options: 6, 9, 10, 7
+[17:22:09.439] ANSWER SELECTED — '9' ✓ correct | Q: 3x + 3 = 30,  find x | reaction: 3504ms | score: 69 | streak: 22
+[17:22:11.053] NEW QUESTION [30] — 3x + 5 = 32,  find x | Level: Level 3 — Equations | Options: 11, 9, 10, 12
+[17:22:15.806] ANSWER SELECTED — '9' ✓ correct | Q: 3x + 5 = 32,  find x | reaction: 4752ms | score: 72 | streak: 23
+[17:22:17.324] NEW QUESTION [31] — 3x + 7 = 13,  find x | Level: Level 3 — Equations | Options: 4, 1, 2, 3
+[17:22:20.506] ANSWER SELECTED — '2' ✓ correct | Q: 3x + 7 = 13,  find x | reaction: 3181ms | score: 75 | streak: 24
+[17:22:22.057] NEW QUESTION [32] — 4x + 1 = 33,  find x | Level: Level 3 — Equations | Options: 8, 10, 11, 6
+[17:22:25.073] ANSWER SELECTED — '8' ✓ correct | Q: 4x + 1 = 33,  find x | reaction: 3016ms | score: 78 | streak: 25
+[17:22:26.628] NEW QUESTION [33] — 5x + 3 = 28,  find x | Level: Level 3 — Equations | Options: 5, 8, 7, 3
+[17:22:28.772] ANSWER SELECTED — '5' ✓ correct | Q: 5x + 3 = 28,  find x | reaction: 2144ms | score: 81 | streak: 26
+[17:22:30.384] NEW QUESTION [34] — 2x + 9 = 27,  find x | Level: Level 3 — Equations | Options: 8, 9, 12, 6
+[17:22:34.405] ANSWER SELECTED — '9' ✓ correct | Q: 2x + 9 = 27,  find x | reaction: 4020ms | score: 84 | streak: 27
+[17:22:35.963] NEW QUESTION [35] — 3x + 5 = 20,  find x | Level: Level 3 — Equations | Options: 7, 5, 3, 2
+[17:22:38.530] SESSION COMPLETE — 3 minute time limit reached
+[17:22:38.530] REST START — after test | 60s
+[17:23:38.558] REST END — after test
+[17:23:38.559] SESSION STOP — score: 84 correct: 33 wrong: 1 timed out: 0 | accuracy: 97% | avg reaction: 3654ms | duration: 320s

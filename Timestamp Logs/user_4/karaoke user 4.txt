@@ -1,0 +1,30 @@
+Karaoke
+Generated: 2026-11-13 18:38:47.921
+Entries: 26
+
+2026-11-13 18:35:48.234  session_start
+2026-11-13 18:35:48.234  set_length 1 min, 14 lines, 55.4s
+2026-11-13 18:35:48.234  baseline_start 60s breathing_per_min=12 inhale_s=2 exhale_s=3 scene=moonlit_lake
+2026-11-13 18:36:48.237  baseline_end
+2026-11-13 18:36:52.509  karaoke_start
+2026-11-13 18:36:52.509  song_start Twinkle, Twinkle, Little Star
+2026-11-13 18:36:52.509  lyric_line 1 Twinkle, twinkle, little star,
+2026-11-13 18:36:56.514  lyric_line 2 How I wonder what you are.
+2026-11-13 18:37:00.514  lyric_line 3 Up above the world so high,
+2026-11-13 18:37:04.514  lyric_line 4 Like a diamond in the sky.
+2026-11-13 18:37:08.514  lyric_line 5 Twinkle, twinkle, little star,
+2026-11-13 18:37:12.513  lyric_line 6 How I wonder what you are.
+2026-11-13 18:37:18.513  song_start Mary Had a Little Lamb
+2026-11-13 18:37:18.513  lyric_line 7 Mary had a little lamb,
+2026-11-13 18:37:22.513  lyric_line 8 Little lamb, little lamb,
+2026-11-13 18:37:26.024  lyric_line 9 Mary had a little lamb,
+2026-11-13 18:37:30.512  lyric_line 10 Its fleece was white as snow.
+2026-11-13 18:37:35.512  song_start Row, Row, Row Your Boat
+2026-11-13 18:37:35.512  lyric_line 11 Row, row, row your boat,
+2026-11-13 18:37:37.912  lyric_line 12 Gently down the stream.
+2026-11-13 18:37:40.312  lyric_line 13 Merrily, merrily, merrily, merrily,
+2026-11-13 18:37:45.512  lyric_line 14 Life is but a dream.
+2026-11-13 18:37:47.912  song_finished
+2026-11-13 18:37:47.912  recovery_start 60s breathing_per_min=12 inhale_s=2 exhale_s=3 scene=moonlit_lake
+2026-11-13 18:38:47.921  recovery_end
+2026-11-13 18:38:47.921  session_end

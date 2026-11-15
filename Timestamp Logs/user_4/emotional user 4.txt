@@ -1,0 +1,26 @@
+Emotional Questions log
+Generated: 2026-11-13 18:34:06.038
+Questions shown: 9
+Entries: 20
+A line is written when the session starts, each time a question appears or is skipped, and when it stops.
+
+2026-11-13 18:31:02.940  SESSION START — 15 questions, 20s each, 180s interview limit
+2026-11-13 18:31:05.940  NEW QUESTION [1] — Warm-up | difficulty 1 | Do you have dreams?
+2026-11-13 18:31:25.992  TIME UP [1] — 20s limit reached
+2026-11-13 18:31:25.992  NEW QUESTION [2] — Warm-up | difficulty 2 | What makes you feel happy?
+2026-11-13 18:31:46.041  TIME UP [2] — 20s limit reached
+2026-11-13 18:31:46.041  NEW QUESTION [3] — Warm-up | difficulty 3 | Who do you miss?
+2026-11-13 18:32:06.141  TIME UP [3] — 20s limit reached
+2026-11-13 18:32:06.141  NEW QUESTION [4] — Easy | difficulty 4 | Do you have regrets?
+2026-11-13 18:32:26.142  TIME UP [4] — 20s limit reached
+2026-11-13 18:32:26.142  NEW QUESTION [5] — Easy | difficulty 5 | What are you afraid of?
+2026-11-13 18:32:46.242  TIME UP [5] — 20s limit reached
+2026-11-13 18:32:46.242  NEW QUESTION [6] — Easy | difficulty 6 | When did you last feel proud of yourself?
+2026-11-13 18:33:06.341  TIME UP [6] — 20s limit reached
+2026-11-13 18:33:06.341  NEW QUESTION [7] — Medium | difficulty 7 | What is something you wish you had said to someone?
+2026-11-13 18:33:26.440  TIME UP [7] — 20s limit reached
+2026-11-13 18:33:26.440  NEW QUESTION [8] — Medium | difficulty 8 | When do you feel most alone?
+2026-11-13 18:33:46.539  TIME UP [8] — 20s limit reached
+2026-11-13 18:33:46.539  NEW QUESTION [9] — Medium | difficulty 9 | Who has hurt you, and have you forgiven them?
+2026-11-13 18:34:06.037  INTERVIEW TIME LIMIT — 180s reached during question 9
+2026-11-13 18:34:06.037  SESSION STOP — time limit reached | questions shown: 9 of 15 | duration: 183s

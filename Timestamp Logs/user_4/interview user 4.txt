@@ -1,0 +1,45 @@
+Interview Questions log
+Generated: 2026-11-13 18:25:11.515
+Questions shown: 9
+Entries: 28
+A line is written when the session starts, each time a question appears or is skipped, and when it stops.
+
+2026-11-13 18:20:04.366  SESSION START — 15 questions, 20s each, 180s interview limit, 60s baseline and recovery rests
+2026-11-13 18:20:04.366  INSTRUCTIONS SHOWN — waiting for Start baseline
+2026-11-13 18:20:08.378  PARTICIPANT PRESSED START BASELINE
+2026-11-13 18:20:08.378  BASELINE START — 60s rest | breathing 12/min (in 2s, out 3s) | scene: moonlit lake
+2026-11-13 18:21:08.378  BASELINE END
+2026-11-13 18:21:08.378  COUNTDOWN START — 3s
+2026-11-13 18:21:11.378  NEW QUESTION [1] — Warm-up | difficulty 1 | Tell me about yourself.
+2026-11-13 18:21:31.416  TIME UP [1] — 20s limit reached
+2026-11-13 18:21:31.416  NEW QUESTION [2] — Warm-up | difficulty 2 | What are your strengths?
+2026-11-13 18:21:51.516  TIME UP [2] — 20s limit reached
+2026-11-13 18:21:51.516  NEW QUESTION [3] — Warm-up | difficulty 3 | What are your weaknesses?
+2026-11-13 18:22:11.615  TIME UP [3] — 20s limit reached
+2026-11-13 18:22:11.615  NEW QUESTION [4] — Easy | difficulty 4 | How much do you want to earn?
+2026-11-13 18:22:31.715  TIME UP [4] — 20s limit reached
+2026-11-13 18:22:31.715  NEW QUESTION [5] — Easy | difficulty 5 | Why do you want this job?
+2026-11-13 18:22:51.819  TIME UP [5] — 20s limit reached
+2026-11-13 18:22:51.819  NEW QUESTION [6] — Easy | difficulty 6 | Why should we hire you?
+2026-11-13 18:23:11.915  TIME UP [6] — 20s limit reached
+2026-11-13 18:23:11.915  NEW QUESTION [7] — Medium | difficulty 7 | Where do you see yourself in five years?
+2026-11-13 18:23:32.017  TIME UP [7] — 20s limit reached
+2026-11-13 18:23:32.017  NEW QUESTION [8] — Medium | difficulty 8 | Tell me about a time you worked through a disagreement with a teammate.
+2026-11-13 18:23:52.114  TIME UP [8] — 20s limit reached
+2026-11-13 18:23:52.114  NEW QUESTION [9] — Medium | difficulty 9 | Describe a time you missed a deadline. What did you do?
+2026-11-13 18:24:11.416  INTERVIEW TIME LIMIT — 180s reached during question 9
+2026-11-13 18:24:11.416  INTERVIEW END — time limit reached | questions shown: 9 of 15
+2026-11-13 18:24:11.416  RECOVERY START — 60s rest | breathing 12/min (in 2s, out 3s) | scene: moonlit lake
+2026-11-13 18:25:11.416  RECOVERY END
+2026-11-13 18:25:11.416  SESSION STOP — completed | questions shown: 9 of 15 | duration: 307s
+
+Boundaries (unix ms):
+session_start=1794612004366
+instructions_end=1794612008378
+baseline_start=1794612008378
+baseline_end=1794612068378
+interview_start=1794612071378
+interview_end=1794612251416
+recovery_start=1794612251416
+recovery_end=1794612311416
+session_end=1794612311416

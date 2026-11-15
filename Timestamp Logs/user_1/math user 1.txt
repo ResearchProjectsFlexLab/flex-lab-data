@@ -1,0 +1,66 @@
+Math Questions log
+Generated: 2026-11-12T22:02:45Z
+Entries: 61
+A line is written at each step: baseline rest, rest after the test, and each test question and answer.
+
+[16:56:31.012] SESSION START — 2026-11-12 16:56:31
+[16:56:31.012] INSTRUCTIONS SHOWN
+[16:57:33.360] BASELINE START — 60s rest | scene: moonlit lake | breathing 12/min (in 2s, out 3s)
+[16:57:33.361] REST START — before test | 60s
+[16:58:33.367] REST END — before test
+[16:58:41.792] TEST START — 3 minute math test
+[16:58:44.967] NEW QUESTION [1] — 1 × 1 = ? | Level: Level 1 — Single Digit | Options: 3, 1, 2, 4
+[16:58:48.072] ANSWER SELECTED — '1' ✓ correct | Q: 1 × 1 = ? | reaction: 3104ms | score: 1 | streak: 1
+[16:58:49.610] NEW QUESTION [2] — 2 - 2 = ? | Level: Level 1 — Single Digit | Options: 1, 3, 2, 0
+[16:58:51.860] ANSWER SELECTED — '3' ✗ wrong | correct: '0' | Q: 2 - 2 = ? | reaction: 2249ms
+[16:58:53.399] NEW QUESTION [3] — 9 + 3 = ? | Level: Level 1 — Single Digit | Options: 13, 14, 15, 12
+[16:58:56.458] ANSWER SELECTED — '12' ✓ correct | Q: 9 + 3 = ? | reaction: 3059ms | score: 2 | streak: 1
+[16:58:58.028] NEW QUESTION [4] — 8 × 5 = ? | Level: Level 1 — Single Digit | Options: 42, 38, 40, 41
+[16:59:09.047] ANSWER SELECTED — '40' ✓ correct | Q: 8 × 5 = ? | reaction: 11018ms | score: 3 | streak: 2
+[16:59:10.662] NEW QUESTION [5] — 7 - 2 = ? | Level: Level 1 — Single Digit | Options: 3, 7, 4, 5
+[16:59:16.690] ANSWER SELECTED — '5' ✓ correct | Q: 7 - 2 = ? | reaction: 6028ms | score: 4 | streak: 3
+[16:59:18.302] NEW QUESTION [6] — 1 + 2 = ? | Level: Level 1 — Single Digit | Options: 2, 3, 4, 1
+[16:59:22.703] ANSWER SELECTED — '3' ✓ correct | Q: 1 + 2 = ? | reaction: 4401ms | score: 5 | streak: 4
+[16:59:24.302] LEVEL CHANGE — Level 1 — Single Digit → Level 2 — Double Digit
+[16:59:24.303] NEW QUESTION [7] — 96 - 77 = ? | Level: Level 2 — Double Digit | Options: 19, 9, 24, 11
+[16:59:29.403] ANSWER SELECTED — '19' ✓ correct | Q: 96 - 77 = ? | reaction: 5101ms | score: 7 | streak: 5
+[16:59:31.025] NEW QUESTION [8] — 19 + 12 = ? | Level: Level 2 — Double Digit | Options: 37, 26, 31, 27
+[16:59:35.092] ANSWER SELECTED — '31' ✓ correct | Q: 19 + 12 = ? | reaction: 4066ms | score: 9 | streak: 6
+[16:59:36.707] NEW QUESTION [9] — 63 - 49 = ? | Level: Level 2 — Double Digit | Options: 14, 19, 10, 6
+[16:59:48.524] ANSWER SELECTED — '14' ✓ correct | Q: 63 - 49 = ? | reaction: 11817ms | score: 11 | streak: 7
+[16:59:50.054] NEW QUESTION [10] — 80 + 32 = ? | Level: Level 2 — Double Digit | Options: 105, 115, 112, 111
+[16:59:53.891] ANSWER SELECTED — '105' ✗ wrong | correct: '112' | Q: 80 + 32 = ? | reaction: 3838ms
+[16:59:55.470] NEW QUESTION [11] — 80 - 69 = ? | Level: Level 2 — Double Digit | Options: 11, 7, 4, 17
+[17:00:00.760] ANSWER SELECTED — '11' ✓ correct | Q: 80 - 69 = ? | reaction: 5290ms | score: 13 | streak: 1
+[17:00:02.358] NEW QUESTION [12] — 97 + 43 = ? | Level: Level 2 — Double Digit | Options: 142, 148, 140, 149
+[17:00:05.823] ANSWER SELECTED — '140' ✓ correct | Q: 97 + 43 = ? | reaction: 3465ms | score: 15 | streak: 2
+[17:00:07.348] LEVEL CHANGE — Level 2 — Double Digit → Level 3 — Equations
+[17:00:07.349] NEW QUESTION [13] — 5x + 9 = 49,  find x | Level: Level 3 — Equations | Options: 8, 11, 9, 10
+[17:00:13.024] ANSWER SELECTED — '8' ✓ correct | Q: 5x + 9 = 49,  find x | reaction: 5675ms | score: 18 | streak: 3
+[17:00:14.564] NEW QUESTION [14] — 5x + 5 = 15,  find x | Level: Level 3 — Equations | Options: 0, 3, 4, 2
+[17:00:18.868] ANSWER SELECTED — '2' ✓ correct | Q: 5x + 5 = 15,  find x | reaction: 4304ms | score: 21 | streak: 4
+[17:00:20.401] NEW QUESTION [15] — 4x + 6 = 26,  find x | Level: Level 3 — Equations | Options: 5, 3, 4, 6
+[17:00:24.991] ANSWER SELECTED — '5' ✓ correct | Q: 4x + 6 = 26,  find x | reaction: 4590ms | score: 24 | streak: 5
+[17:00:26.523] NEW QUESTION [16] — 4x + 8 = 36,  find x | Level: Level 3 — Equations | Options: 5, 7, 8, 10
+[17:00:33.723] ANSWER SELECTED — '7' ✓ correct | Q: 4x + 8 = 36,  find x | reaction: 7199ms | score: 27 | streak: 6
+[17:00:35.242] NEW QUESTION [17] — 4x + 6 = 38,  find x | Level: Level 3 — Equations | Options: 7, 5, 8, 11
+[17:00:38.668] ANSWER SELECTED — '7' ✗ wrong | correct: '8' | Q: 4x + 6 = 38,  find x | reaction: 3426ms
+[17:00:40.275] NEW QUESTION [18] — 2x + 3 = 21,  find x | Level: Level 3 — Equations | Options: 12, 9, 11, 8
+[17:00:49.623] ANSWER SELECTED — '8' ✗ wrong | correct: '9' | Q: 2x + 3 = 21,  find x | reaction: 9349ms
+[17:00:51.236] NEW QUESTION [19] — 3x + 3 = 9,  find x | Level: Level 3 — Equations | Options: 1, 2, 5, 3
+[17:00:55.867] ANSWER SELECTED — '2' ✓ correct | Q: 3x + 3 = 9,  find x | reaction: 4631ms | score: 30 | streak: 1
+[17:00:57.401] NEW QUESTION [20] — 4x + 7 = 43,  find x | Level: Level 3 — Equations | Options: 7, 9, 6, 8
+[17:01:04.022] ANSWER SELECTED — '7' ✗ wrong | correct: '9' | Q: 4x + 7 = 43,  find x | reaction: 6621ms
+[17:01:05.631] NEW QUESTION [21] — 3x + 8 = 20,  find x | Level: Level 3 — Equations | Options: 7, 4, 3, 1
+[17:01:08.389] ANSWER SELECTED — '4' ✓ correct | Q: 3x + 8 = 20,  find x | reaction: 2759ms | score: 33 | streak: 1
+[17:01:09.941] NEW QUESTION [22] — 5x + 4 = 39,  find x | Level: Level 3 — Equations | Options: 8, 9, 7, 4
+[17:01:17.421] ANSWER SELECTED — '7' ✓ correct | Q: 5x + 4 = 39,  find x | reaction: 7480ms | score: 36 | streak: 2
+[17:01:19.039] NEW QUESTION [23] — 3x + 8 = 11,  find x | Level: Level 3 — Equations | Options: 3, 0, 2, 1
+[17:01:23.933] ANSWER SELECTED — '1' ✓ correct | Q: 3x + 8 = 11,  find x | reaction: 4894ms | score: 39 | streak: 3
+[17:01:25.511] NEW QUESTION [24] — 4x + 10 = 14,  find x | Level: Level 3 — Equations | Options: 2, 1, 3, 4
+[17:01:31.889] ANSWER SELECTED — '1' ✓ correct | Q: 4x + 10 = 14,  find x | reaction: 6378ms | score: 42 | streak: 4
+[17:01:33.506] NEW QUESTION [25] — 5x + 1 = 36,  find x | Level: Level 3 — Equations | Options: 7, 9, 5, 4
+[17:01:45.057] SESSION COMPLETE — 3 minute time limit reached
+[17:01:45.058] REST START — after test | 60s
+[17:02:45.225] REST END — after test
+[17:02:45.226] SESSION STOP — score: 42 correct: 19 wrong: 5 timed out: 0 | accuracy: 79% | avg reaction: 5448ms | duration: 374s

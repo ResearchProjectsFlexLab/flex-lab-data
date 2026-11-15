@@ -1,0 +1,9 @@
+Emotional Questions — rest log (baseline and recovery)
+Scene: moonlit lake. Breathing guide: 12 breaths/min (2 s in, 3 s out).
+Each line: local time | unix ms | event
+
+2026-11-12 18:03:51.882  1794524631882  RUN START — rest_s=60 breathing_per_min=12 inhale_s=2 exhale_s=3 scene=moonlit_lake
+2026-11-12 18:03:51.882  1794524631882  BASELINE START
+2026-11-12 18:04:51.882  1794524691882  BASELINE END — 60.0s
+2026-11-12 18:07:58.524  1794524878524  RECOVERY START
+2026-11-12 18:08:58.524  1794524938524  RECOVERY END — 60.0s
